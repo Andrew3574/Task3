@@ -11,13 +11,11 @@ internal class Program
 
     private static void Main(string[] args)
     {
-        List<Dice> diceList = new List<Dice>();
-        foreach (var arg in args)
-        {
-            diceList.Add(new Dice(arg));
-        }              
+        List<Dice> diceList = new List<Dice>();                     
         try
         {
+            diceList.AddRange(DiceConfiguration.Configure(args));
+
             do
             {                
                 var generator = new FairNumberGenerator();
@@ -43,7 +41,7 @@ internal class Program
         }
         catch (Exception ex)
         {
-            Console.WriteLine("ERROR: " + ex.Message + ex.Data.Values + ex.InnerException);
+            Console.WriteLine("ERROR: " + ex.Message);
         }
         Console.ReadLine();
     }
