@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SummerCourse\\task3\\IntransitiveDiceGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80967E4C-CBA0-4561-82D4-CCD67900CC0E}|IntransitiveDiceGame\\IntransitiveDiceGame.csproj|d:\\summercourse\\task3\\intransitivedicegame\\intransitivedicegame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80967E4C-CBA0-4561-82D4-CCD67900CC0E}|IntransitiveDiceGame\\IntransitiveDiceGame.csproj|solutionrelative:intransitivedicegame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80967E4C-CBA0-4561-82D4-CCD67900CC0E}|IntransitiveDiceGame\\IntransitiveDiceGame.csproj|d:\\summercourse\\task3\\intransitivedicegame\\intransitivedicegame\\dice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80967E4C-CBA0-4561-82D4-CCD67900CC0E}|IntransitiveDiceGame\\IntransitiveDiceGame.csproj|solutionrelative:intransitivedicegame\\dice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80967E4C-CBA0-4561-82D4-CCD67900CC0E}|IntransitiveDiceGame\\IntransitiveDiceGame.csproj|d:\\summercourse\\task3\\intransitivedicegame\\intransitivedicegame\\probabilityprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80967E4C-CBA0-4561-82D4-CCD67900CC0E}|IntransitiveDiceGame\\IntransitiveDiceGame.csproj|solutionrelative:intransitivedicegame\\probabilityprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80967E4C-CBA0-4561-82D4-CCD67900CC0E}|IntransitiveDiceGame\\IntransitiveDiceGame.csproj|d:\\summercourse\\task3\\intransitivedicegame\\intransitivedicegame\\tableclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80967E4C-CBA0-4561-82D4-CCD67900CC0E}|IntransitiveDiceGame\\IntransitiveDiceGame.csproj|solutionrelative:intransitivedicegame\\tableclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80967E4C-CBA0-4561-82D4-CCD67900CC0E}|IntransitiveDiceGame\\IntransitiveDiceGame.csproj|d:\\summercourse\\task3\\intransitivedicegame\\intransitivedicegame\\fairnumbergenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80967E4C-CBA0-4561-82D4-CCD67900CC0E}|IntransitiveDiceGame\\IntransitiveDiceGame.csproj|solutionrelative:intransitivedicegame\\fairnumbergenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80967E4C-CBA0-4561-82D4-CCD67900CC0E}|IntransitiveDiceGame\\IntransitiveDiceGame.csproj|d:\\summercourse\\task3\\intransitivedicegame\\intransitivedicegame\\hmacgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80967E4C-CBA0-4561-82D4-CCD67900CC0E}|IntransitiveDiceGame\\IntransitiveDiceGame.csproj|solutionrelative:intransitivedicegame\\hmacgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 186,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1203,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SummerCourse\\task3\\IntransitiveDiceGame\\IntransitiveDiceGame\\Program.cs",
+              "RelativeDocumentMoniker": "IntransitiveDiceGame\\Program.cs",
+              "ToolTip": "D:\\SummerCourse\\task3\\IntransitiveDiceGame\\IntransitiveDiceGame\\Program.cs",
+              "RelativeToolTip": "IntransitiveDiceGame\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T14:53:43.351Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HmacGenerator.cs",
+              "DocumentMoniker": "D:\\SummerCourse\\task3\\IntransitiveDiceGame\\IntransitiveDiceGame\\HmacGenerator.cs",
+              "RelativeDocumentMoniker": "IntransitiveDiceGame\\HmacGenerator.cs",
+              "ToolTip": "D:\\SummerCourse\\task3\\IntransitiveDiceGame\\IntransitiveDiceGame\\HmacGenerator.cs",
+              "RelativeToolTip": "IntransitiveDiceGame\\HmacGenerator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:49:22.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FairNumberGenerator.cs",
+              "DocumentMoniker": "D:\\SummerCourse\\task3\\IntransitiveDiceGame\\IntransitiveDiceGame\\FairNumberGenerator.cs",
+              "RelativeDocumentMoniker": "IntransitiveDiceGame\\FairNumberGenerator.cs",
+              "ToolTip": "D:\\SummerCourse\\task3\\IntransitiveDiceGame\\IntransitiveDiceGame\\FairNumberGenerator.cs",
+              "RelativeToolTip": "IntransitiveDiceGame\\FairNumberGenerator.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA8wCAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:57:57.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProbabilityProcessor.cs",
+              "DocumentMoniker": "D:\\SummerCourse\\task3\\IntransitiveDiceGame\\IntransitiveDiceGame\\ProbabilityProcessor.cs",
+              "RelativeDocumentMoniker": "IntransitiveDiceGame\\ProbabilityProcessor.cs",
+              "ToolTip": "D:\\SummerCourse\\task3\\IntransitiveDiceGame\\IntransitiveDiceGame\\ProbabilityProcessor.cs",
+              "RelativeToolTip": "IntransitiveDiceGame\\ProbabilityProcessor.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T15:59:50.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TableClass.cs",
+              "DocumentMoniker": "D:\\SummerCourse\\task3\\IntransitiveDiceGame\\IntransitiveDiceGame\\TableClass.cs",
+              "RelativeDocumentMoniker": "IntransitiveDiceGame\\TableClass.cs",
+              "ToolTip": "D:\\SummerCourse\\task3\\IntransitiveDiceGame\\IntransitiveDiceGame\\TableClass.cs",
+              "RelativeToolTip": "IntransitiveDiceGame\\TableClass.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T15:42:29.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dice.cs",
+              "DocumentMoniker": "D:\\SummerCourse\\task3\\IntransitiveDiceGame\\IntransitiveDiceGame\\Dice.cs",
+              "RelativeDocumentMoniker": "IntransitiveDiceGame\\Dice.cs",
+              "ToolTip": "D:\\SummerCourse\\task3\\IntransitiveDiceGame\\IntransitiveDiceGame\\Dice.cs",
+              "RelativeToolTip": "IntransitiveDiceGame\\Dice.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwCUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:18:04.426Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1428,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1524,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1155,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

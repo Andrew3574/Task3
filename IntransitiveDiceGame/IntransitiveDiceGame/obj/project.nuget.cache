@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "X9HFg9uPRi8=",
+  "success": true,
+  "projectFilePath": "D:\\SummerCourse\\task3\\IntransitiveDiceGame\\IntransitiveDiceGame\\IntransitiveDiceGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\komp\\.nuget\\packages\\consoletables\\2.6.2\\consoletables.2.6.2.nupkg.sha512",
+    "C:\\Users\\komp\\.nuget\\packages\\onixlabs.core\\12.1.1\\onixlabs.core.12.1.1.nupkg.sha512",
+    "C:\\Users\\komp\\.nuget\\packages\\onixlabs.security.cryptography\\12.1.1\\onixlabs.security.cryptography.12.1.1.nupkg.sha512",
+    "C:\\Users\\komp\\.nuget\\packages\\sha3.net\\2.0.0\\sha3.net.2.0.0.nupkg.sha512",
+    "C:\\Users\\komp\\.nuget\\packages\\wcwidth\\1.0.0\\wcwidth.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
